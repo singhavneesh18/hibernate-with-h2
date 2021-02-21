@@ -15,3 +15,5 @@ server:
   port: 8082
   servlet:
     context-path: /hibernate-with-h2
+module:
+  enabled: false
